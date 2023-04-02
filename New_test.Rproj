@@ -1,13 +1,13 @@
-Version: 1.0
+---
+title: "New"
+author: "Yuhao Long"
+date: "2023-04-02"
+output: html_document
+---
 
-RestoreWorkspace: Default
-SaveWorkspace: Default
-AlwaysSaveHistory: Default
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
 
-EnableCodeIndexing: Yes
-UseSpacesForTab: Yes
-NumSpacesForTab: 2
-Encoding: UTF-8
-
-RnwWeave: Sweave
-LaTeX: pdfLaTeX
+## R Markdown
+New repo
